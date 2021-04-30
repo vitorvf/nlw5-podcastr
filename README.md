@@ -14,11 +14,9 @@ Você pode conferir o resultado final em: https://nlw5-podcastt.vercel.app/
 Para a realização desse projeto foi utilizado as seguintes tecnologias/linguagens: 
 - [NextJS](https://pt-br.reactjs.org) 
 - [Typescript]()
-- [API](https://developers.themoviedb.org/3)
-- [CSS]() 
- -[Styled Components]()
+- [API]()
+- [Styled Components]() 
 - [React Testing Library]()
-
 
 
 
