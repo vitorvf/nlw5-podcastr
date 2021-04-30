@@ -1,6 +1,6 @@
 
 
-#🎧 nlw5-podcastr
+# 🎧 nlw5-podcastr
 Projeito Feito na NLW #5
 
 ![Captura de tela_2021-04-30_09-35-01](https://user-images.githubusercontent.com/47065330/116696096-d1cd9880-a997-11eb-8abc-f96b8529fdc0.png)
